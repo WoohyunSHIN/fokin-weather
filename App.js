@@ -6,6 +6,10 @@ import axios from "axios";
 
 const API_KEY = "827e4d749a8ece10a6277d4e707ad2c6";
 
+/*
+test code
+*/
+
 /* 
 지역 정보를 사용하기 위해서 expo API 에서 찾아본후,
 expo install expo-location 
